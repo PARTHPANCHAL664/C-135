@@ -1,0 +1,43 @@
+body 
+{
+    background-size: cover;
+    background-position: center;
+}
+
+h1
+{
+    background-color: rgb(101, 210, 210);
+    color: black;
+    width: 50%;
+    font-family: 'Tilt Prism', cursive;
+}
+
+#bt1
+{
+    background-color: bisque;
+    width: 8%;
+    height: 8%;
+    font-size: 20px;
+    font-family: serif;
+    font-weight: 400;
+}
+
+#number_of_objects , #status
+{
+    font-size: 18px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    color: white;
+    width: 100%;
+    font-weight: bold;
+}
+
+canvas 
+{
+    margin-top: 30px;
+}
